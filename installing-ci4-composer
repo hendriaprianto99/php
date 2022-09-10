@@ -1,0 +1,6 @@
+INSTALLING CODE IGNITER 4 USING COMPOSER, PHP 7.4
+sudo chmod 777 htdocs/
+sudo apt-get install php7.4-intl
+sudo apt-get install php-curl
+sudo apt-get install php-xml
+sudo apt-get install php-mbstring
